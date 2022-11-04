@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 empty
-=======
 potato
 corn
 soup
 beer
->>>>>>> food
